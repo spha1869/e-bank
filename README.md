@@ -1,2 +1,3 @@
 # E-BANK
-MY
+Sphamandla slingo mthombeni
+sphamthombeni2@gmail.com
